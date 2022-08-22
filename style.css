@@ -1,6 +1,6 @@
 *{
   margin: auto;
-  color: orangered;
+  color: purple;
 
   }
   .grid{
@@ -14,7 +14,7 @@ background-color: red;
 
 .grid div{
   width: 50px;
-  height: 50px;
+  height: 20px;
 text-align:  center;
 
 }
@@ -24,134 +24,138 @@ text-align:  center;
 .letterA::before{
 font-size: 40px;
   content: "A";
-  background-color: purple;}
+}
 
 
 .letterB::before{
   font-size: 40px;
     content: "B";
-    background-color: purple;}
+}
 
 
 .letterC::before{
   font-size: 40px;
     content: "C";
-    background-color: purple;
+
 }
 
 .letterD::before{
   font-size: 40px;
     content: "D";
-    background-color: purple;
+
 }
 .letterE::before{
   font-size: 40px;
     content: "E";
-    background-color: purple;
+
 }
 .letterF::before{
   font-size: 40px;
     content: "F";
-    background-color: purple;
+
 }
 .letterG::before{
   font-size: 40px;
     content: "G";
-    background-color: purple;
+
 }
 .letterH::before{
   font-size: 40px;
     content: "H";
-    background-color: purple;
+
 }
 
 .letterI::before{
   font-size: 40px;
     content: "I";
-    background-color: purple;
+
 }
 .letterJ::before{
   font-size: 40px;
     content: "J";
-    background-color: purple;
+
 }
 .letterK::before{
   font-size: 40px;
     content: "K";
-    background-color: purple;
+
 }
 .letterL::before{
   font-size: 40px;
     content: "L";
-    background-color: purple;
+
 }
 .letterM::before{
   font-size: 40px;
     content: "M";
-    background-color: purple;
+
 }
 .letterN::before{
   font-size: 40px;
     content: "N";
-    background-color: purple;
+
 }
 .letterO::before{
   font-size: 40px;
     content: "O";
-    background-color: purple;
+
 }
 .letterP::before{
   font-size: 40px;
     content: "P";
-    background-color: purple;
+
 }
 .letterQ::before{
   font-size: 40px;
     content: "Q";
-    background-color: purple;
+
 }
 .letterR::before{
   font-size: 40px;
     content: "R";
-    background-color: purple;
+
 }
 .letterS::before{
   font-size: 40px;
     content: "S";
-    background-color: purple;
+
 }
 .letterT::before{
   font-size: 40px;
     content: "T";
-    background-color: purple;
+
 }
 .letterU::before{
   font-size: 40px;
     content: "U";
-    background-color: purple;
+
 }
 .letterV::before{
   font-size: 40px;
     content: "V";
-    background-color: purple;
+
 }
 .letterW::before{
   font-size: 40px;
     content: "W";
-    background-color: purple;
+
 }
 .letterX::before{
   font-size: 40px;
     content: "X";
-    background-color: purple;
+
 }
 .letterY::before{
   font-size: 40px;
     content: "Y";
-    background-color: purple;
+
 }
 .letterZ::before{
   font-size: 40px;
     content: "Z";
-    background-color: purple;
+
+}
+
+.score{
+  
 }
